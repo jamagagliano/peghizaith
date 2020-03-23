@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://oojohquafa.ccblog.me/sitemap.xml
